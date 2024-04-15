@@ -27,5 +27,13 @@ This was achieved by passing different parameters in the method update as shown 
 
  https://github.com/Thazes/University-Management-System-CAT2-Group1/blob/main/compile%20time%20polymorphism.png
       
-### 3. Abstraction 
+### 3. Encapsulation
+
+This was achieved by declaring variables in class Person as private and having special methods which are setters and getters that modify the variables
+
+https://github.com/Thazes/University-Management-System-CAT2-Group1/blob/main/encapsulation.png 
+
+### 4. Abstraction
+
+
 
