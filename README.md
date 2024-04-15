@@ -35,5 +35,5 @@ https://github.com/Thazes/University-Management-System-CAT2-Group1/blob/main/enc
 
 ### 4. Abstraction
 
-
+This was achieved by creating abstract class Person from where class Student and Faculty inherit therefore defining their behaviour
 
