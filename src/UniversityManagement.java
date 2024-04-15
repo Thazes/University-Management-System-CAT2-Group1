@@ -36,11 +36,6 @@ public class UniversityManagement implements IManageable {
     }
 
     @Override
-    public void add(Faculty faculty) {
-
-    }
-
-    @Override
     public void add(Student student) {
         try {
             if (student.getGPA()<0) {
@@ -51,7 +46,10 @@ public class UniversityManagement implements IManageable {
         }
     }
 
+    @Override
+    public void add(Faculty faculty) {
 
+    }
 
     @Override
     public void update(Course course) {
