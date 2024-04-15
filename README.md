@@ -15,10 +15,11 @@
     
 #### A) Runtime polymorphism-inheritance
      
-    https://github.com/Thazes/University-Management-System-CAT2-Group1/blob/main/inheritance.png
+ https://github.com/Thazes/University-Management-System-CAT2-Group1/blob/main/inheritance.png
     
 #### B) Compile time polymorphism
       
-    https://github.com/Thazes/University-Management-System-CAT2-Group1/blob/main/compile%20time%20polymorphism.png
+ https://github.com/Thazes/University-Management-System-CAT2-Group1/blob/main/compile%20time%20polymorphism.png
       
-3 
+### 3. Abstraction 
+
