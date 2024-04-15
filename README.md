@@ -6,7 +6,9 @@
 
 ## Achieving of OOP principles 
 
-### 1. Inheritance was achieved through extending class student with person
+### 1. Inheritance 
+
+This was was achieved through extending class student with person as shown in the image below
  
  https://github.com/Thazes/University-Management-System-CAT2-Group1/blob/main/inheritance.png
 
@@ -14,11 +16,15 @@
 ### 2. Polymorphism was achieved through
     
 #### A) Runtime polymorphism-inheritance
+ 
+This was achieved by extending class student with person as shown in the image below
      
  https://github.com/Thazes/University-Management-System-CAT2-Group1/blob/main/inheritance.png
     
 #### B) Compile time polymorphism
-      
+ 
+This was achieved by passing different parameters in the method update as shown below
+
  https://github.com/Thazes/University-Management-System-CAT2-Group1/blob/main/compile%20time%20polymorphism.png
       
 ### 3. Abstraction 
