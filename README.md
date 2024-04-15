@@ -37,3 +37,4 @@ https://github.com/Thazes/University-Management-System-CAT2-Group1/blob/main/enc
 
 This was achieved by creating abstract class Person from where class Student and Faculty inherit therefore defining their behaviour
 
+https://github.com/Thazes/University-Management-System-CAT2-Group1/blob/main/Screenshot%202024-04-15%20at%2014.20.14.png
