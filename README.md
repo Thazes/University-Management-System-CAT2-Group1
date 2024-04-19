@@ -3,6 +3,7 @@
 
 ## Project was done by the following group members
  1. 94568 Humphrey Nyakundi Matagaro
+ 2. 112826 Ngatia Matu Gathara
 
 ## Achieving of OOP principles 
 
